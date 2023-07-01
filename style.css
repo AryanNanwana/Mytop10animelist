@@ -1,0 +1,115 @@
+html,
+body {
+  height: 100%;
+  margin: 0;
+  font-size: 16px;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  line-height: 1.8em;
+  color: #666;
+}
+
+.pimg1 {
+  background-image: url(images/bleach-anime-uzumaki-naruto-gon-cs-rurouni-kennshin-hd-wallpaper-preview.jpg);
+  min-height: 100%;
+}
+
+.pimg2 {
+  background-image: url(images/naruto.jpeg);
+  min-height: 650px;
+}
+
+.pimg3 {
+  background-image: url(images/one\ piece.jpg);
+  min-height: 650px;
+}
+
+.pimg4 {
+  background-image: url(images/Atack\ on\ titen.jpg);
+  min-height: 650px;
+}
+
+.pimg5 {
+  background-image: url(images/death\ note.jpg);
+  min-height: 650px;
+}
+
+.pimg6 {
+  background-image: url(images/my\ hero\ academia.jpg);
+  min-height: 650px;
+}
+
+.pimg7 {
+  background-image: url(images/Dragon\ Ball\ Z.png);
+  min-height: 650px;
+}
+
+.pimg8 {
+  background-image: url(images/haikyuu.jpeg);
+  min-height: 650px;
+}
+
+.pimg9 {
+  background-image: url(images/demonslayer.jpeg);
+  min-height: 650px;
+}
+
+.pimg10 {
+  background-image: url(images/Jujutsu\ Kaisen.jpg);
+  min-height: 650px;
+}
+
+.pimg11 {
+  background-image: url(images/hunter\ hunter.jpg);
+  min-height: 800px;
+}
+
+.pimg1,
+.pimg2,
+.pimg3,
+.pimg4,
+.pimg5,
+.pimg6,
+.pimg7,
+.pimg8,
+.pimg9,
+.pimg10,
+.pimg11 {
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.ptext {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: black;
+  font-size: 27px;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+
+.textBg {
+  background: #313534;
+  color: #fff;
+  padding: 20px;
+}
+
+.section {
+  padding: 50px 80px;
+  text-align: center;
+}
+
+.section-light {
+  background-color: #f4f4f4;
+  color: #666;
+}
+
+.section-dark {
+  background-color: #282e34;
+  color: #ddd;
+}
